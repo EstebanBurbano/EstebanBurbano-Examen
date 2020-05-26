@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">EstebanBurbano-Examen</string>
+
+    <string name="btnIngresar">Ingresar</string>
+    <string name="tvSemana5">Semana 5</string>
+    <string name="tvUsuario">Usuario</string>
+    <string name="tvClave">Clave</string>
+    <string name="txtUsuario"></string>
+    <string name="txtClave"></string>
+    <string name="hintUsuario">Ingrese su Usuario</string>
+    <string name="hintClave">Ingrese su Clave</string>
+    <string name="tvNombre">Ingrese su Nombre</string>
+    <string name="HintIngreseSuNombre">Ingrese Su Nombre</string>
+    <string name="tvMontoInicial">Ingrese el deposito inicial</string>
+    <string name="hintMontoInicial">Coloque su monto 0 - 1800</string>
+    <string name="pagoMensual">Pago mensual</string>
+    <string name="botonCalcular">Calcular</string>
+    <string name="btnGuardar">Guardar</string>
+
+
+
+    <string name="tvEncuesta">Encuesta</string>
+    <string name="txtUsuarioRecibido"></string>
+    <string name="txtValorAPagarRecibido"></string>
+    <string name="tvPregunta1">¿Por qué eligió este centro?</string>
+    <string name="txtPregunta1"></string>
+    <string name="tvPregunta2">¿Qué deportes practica?</string>
+    <string name="cbFutbol">Futbol</string>
+    <string name="cbBasquet">Basquet</string>
+    <string name="cbTenis">Tenis</string>
+    <string name="tvPregunta3">Está interesado en aprender otro idioma aparte de inglés.</string>
+    <string name="rbSi">Si</string>
+    <string name="rbNo">No</string>
+    <string name="btnEnviar">Enviar</string>
+
+    <string name="tvActividadTresRespuestas">Respuestas</string>
+    <string name="tvRespuesta1">Eligio este centro por que:</string>
+    <string name="tvRespuesta2">El deporte que practica es:</string>
+    <string name="tvRespuesta3">Esta interesado en aprender otro idioma:</string>
+    <string name="tvUsuarioR">Usuario</string>
+    <string name="tvNombreR">Nombre</string>
+    <string name="tvTotalPagarR">Total a pagar</string>
+
+</resources>
